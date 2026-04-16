@@ -74,7 +74,7 @@ BLAST tabular output (`-outfmt 6`) with the following custom columns:
 qseqid qlen sseqid slen pident length evalue qstart qend sstart send gaps stitle staxid score
 ```
 
-Generate with:
+Generate with (general command):
 
 ```bash
 blastn -query contigs.fasta -db nt \
