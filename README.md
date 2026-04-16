@@ -30,7 +30,7 @@ Built for metagenomic/assembly workflows where BLAST produces multiple HSPs and 
 ## Usage
 
 ```bash
-python blastop.py -i input.tsv -o besthits.tsv
+python blastop.py -i input.tsv -o besthits.tsv [Options]
 ```
 
 ### Options
